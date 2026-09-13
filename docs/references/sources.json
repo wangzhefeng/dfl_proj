@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://github.com/locuslab/e2e-model-learning",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/cvxgrp/cvxpylayers",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/khalil-research/PyEPO",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 4,
+      "url": "https://arxiv.org/pdf/2405.14719v2",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 5,
+      "url": "https://github.com/EgoPer/Decision-Focused-Forecasting/tree/6f9846f3e2b311b375208e6343f17b3e814b1a64",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 6,
+      "url": "https://arxiv.org/html/2505.01551v1",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 7,
+      "url": "https://github.com/Taojy/Decision-Focused-Learning-Benchmarks",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 8,
+      "url": "https://arxiv.org/pdf/1710.08005v5",
+      "title": "",
+      "accessed": "2026-09-13"
+    },
+    {
+      "id": 9,
+      "url": "https://arxiv.org/abs/2307.13565v4",
+      "title": "",
+      "accessed": "2026-09-13"
+    }
+  ]
+}

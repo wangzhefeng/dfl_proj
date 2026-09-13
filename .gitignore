@@ -1,0 +1,26 @@
+# 本地环境与缓存
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# 构建与测试产物
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# 密钥与本地配置
+.env
+.env.*
+*.pem
+*.key
+
+# 原始数据与实验产物按需另行管理
+/data/
+/results/
